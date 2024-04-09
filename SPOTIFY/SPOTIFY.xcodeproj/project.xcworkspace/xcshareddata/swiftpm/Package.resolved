@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/melvinmc720/SDWebImage.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f2936fc4b2c98b4924b68838b5b46389257dc96e"
+      }
+    }
+  ],
+  "version" : 2
+}
